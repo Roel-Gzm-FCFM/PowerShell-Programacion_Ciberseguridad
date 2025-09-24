@@ -1,0 +1,1 @@
+Get-Content "servicios_$($(Get-Date -Format dd_MM_yyyy)).txt" | Where-Object {$_.Contains("Stopped")} > "servicios_detenidos_$($(Get-Date -Format dd_MM_yyyy)).txt"

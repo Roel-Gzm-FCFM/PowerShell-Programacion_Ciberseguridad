@@ -1,0 +1,1 @@
+Get-Service > "servicios_$($(Get-Date -Format dd_MM_yyyy)).txt"
