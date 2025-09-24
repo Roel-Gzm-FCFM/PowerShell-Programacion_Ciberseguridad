@@ -1,3 +1,5 @@
+# Editado por Roel Antonio Guzman Martinez el 23/09/2025
+
 function Validar-Archivo {
     param ([string]$Ruta)
     try {
@@ -27,3 +29,4 @@ New-Item  "$env:USERPROFILE\Desktop\Evidencia10_reporte_$($Fecha).txt"
 
 #Asegúrate de crear un archivo txt con el nombre archivo en el Escritorio
 Validar-Archivo -Ruta "$env:USERPROFILE\Desktop\Evidencia10_reporte_$($Fecha).txt"
+
