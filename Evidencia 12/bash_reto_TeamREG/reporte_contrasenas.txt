@@ -1,0 +1,7 @@
+Usuario | Estado de contraseña
+--------|--------------------
+analista01 | Fuerte
+dev_junior | Fuerte
+sysadmin | Fuerte
+manager | Fuerte
+becario | Fuerte

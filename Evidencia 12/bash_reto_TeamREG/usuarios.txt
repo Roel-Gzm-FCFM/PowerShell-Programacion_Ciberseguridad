@@ -1,0 +1,6 @@
+analista01:123456
+dev_junior:password
+sysadmin:OrionCorp2025!
+manager:qwerty
+becario:becario123
+director_ti:$upp0rt*o
